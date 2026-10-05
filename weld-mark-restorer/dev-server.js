@@ -1,4 +1,4 @@
-// 의존성 없는 정적 파일 서버: `node server.js` 또는 `npm start`
+// 의존성 없는 정적 파일 서버: `node dev-server.js` 또는 `npm start`
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
